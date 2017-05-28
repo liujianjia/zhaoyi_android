@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/release/drawable-mdpi/search_icon.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-mdpi/search_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/release/drawable-mdpi/main_theme_launcher_pic.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-mdpi/main_theme_launcher_pic.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher1.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-mdpi/ic_launcher1.png"
+    }
+]

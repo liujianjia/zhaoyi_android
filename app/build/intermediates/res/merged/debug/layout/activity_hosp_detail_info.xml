@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_common_color">
+
+    <include layout="@layout/top_page_index"/>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="15dip"
+        android:layout_marginTop="10dip"
+        android:layout_marginBottom="10dip">
+
+        <ImageView android:id="@+id/iv_hosp_pic"
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:scaleType="centerCrop"/>
+
+        <TextView android:id="@+id/tv_hosp_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:textSize="20sp"
+            android:text="name"
+            android:textColor="@color/bili_red"
+            android:layout_toRightOf="@id/iv_hosp_pic"/>
+
+        <ImageView android:id="@+id/iv_hosp_star"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/tv_hosp_name"
+            android:layout_below="@id/tv_hosp_name"
+            android:layout_marginTop="10dip"
+            android:src="@drawable/zy_star"/>
+        <TextView android:id="@+id/tv_hosp_star"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_hosp_star"
+            android:layout_alignBottom="@id/iv_hosp_star"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="10dip"
+            android:textSize="15sp"
+            android:textColor="@color/orange1"
+            android:text="10.0"/>
+
+        <ImageView android:id="@+id/iv_hosp_level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_hosp_star"
+            android:layout_alignBottom="@id/tv_hosp_star"
+            android:src="@drawable/zy_hosp_level"/>
+        <TextView android:id="@+id/tv_hosp_level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_hosp_level"
+            android:layout_alignBottom="@id/iv_hosp_level"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="10dip"
+            android:textSize="15sp"
+            android:textColor="@color/gray2"
+            android:text="三级甲等"/>
+
+        <ImageView android:id="@+id/iv_hosp_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_hosp_level"
+            android:layout_alignBottom="@id/tv_hosp_level"
+            android:src="@drawable/zy_hosp_type"/>
+        <TextView android:id="@+id/tv_hosp_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_hosp_type"
+            android:layout_alignBottom="@id/iv_hosp_type"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="10dip"
+            android:textSize="15sp"
+            android:textColor="@color/gray2"
+            android:text="综合医院"/>
+
+        <RelativeLayout android:id="@+id/rl_hosp_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/tv_hosp_name"
+            android:layout_below="@id/iv_hosp_star"
+            android:layout_marginTop="5dip">
+            <ImageView android:id="@+id/iv_hosp_region"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:src="@drawable/zy_hosp_location1"/>
+            <TextView android:id="@+id/tv_hosp_region"
+                android:layout_width="180dip"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/iv_hosp_region"
+                android:layout_alignTop="@id/iv_hosp_region"
+                android:layout_marginLeft="5dip"
+                android:layout_marginRight="10dip"
+                android:textSize="15dip"
+                android:textColor="@color/gray2"
+                android:text="市中区"/>
+
+            <View android:id="@+id/l_line"
+                android:layout_width="1dip"
+                android:layout_height="20dip"
+                android:layout_toRightOf="@id/tv_hosp_region"
+                android:layout_alignBottom="@id/tv_hosp_region"
+                android:background="@color/black3"/>
+
+            <ImageView android:id="@+id/iv_hosp_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@id/l_line"
+                android:layout_alignBottom="@id/l_line"
+                android:src="@drawable/zy_location_icon"/>
+        </RelativeLayout>
+
+
+        <ImageView android:id="@+id/iv_hosp_appointment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rl_hosp_location"
+            android:layout_alignLeft="@id/rl_hosp_location"
+            android:layout_marginTop="5dip"
+            android:src="@drawable/zy_hosp_appointment"/>
+
+        <TextView android:id="@+id/tv_hosp_appointment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_hosp_appointment"
+            android:layout_alignBottom="@id/iv_hosp_appointment"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="10dip"
+            android:textSize="15dip"
+            android:textColor="@color/gray2"
+            android:text="0"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_ui_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/white">
+
+        <RadioGroup android:id="@+id/rg_hos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_hos_department"
+                style="@style/hos_cmp_line"
+                android:layout_width="wrap_content"
+                android:layout_height="42dip"
+                android:text="@string/hos_department"
+                android:textColor="@color/gray1"
+                android:background="@drawable/zy_tab_bottom_line"/>
+
+            <RadioButton
+                android:id="@+id/rb_hos_service"
+                style="@style/hos_cmp_line"
+                android:layout_width="wrap_content"
+                android:layout_height="42dip"
+                android:text="@string/hos_service"
+                android:textColor="@color/gray1"
+                android:background="@drawable/zy_tab_bottom_line"/>
+
+            <RadioButton
+                android:id="@+id/rb_hos_simple_info"
+                style="@style/hos_cmp_line"
+                android:layout_width="wrap_content"
+                android:layout_height="42dip"
+                android:text="@string/hos_simple_info"
+                android:textColor="@color/theme_default_color"
+                android:background="@drawable/zy_tab_bottom_line"/>
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/theme_default_color" />
+
+</LinearLayout>

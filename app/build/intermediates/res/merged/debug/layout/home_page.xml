@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white">
+
+        <RelativeLayout android:id="@+id/rl_network_unavailable"
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:background="@color/cherry_pink"
+            android:visibility="gone">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="请检查网络是否可用"
+                android:textSize="16sp"/>
+        </RelativeLayout>
+
+        <!--<ScrollView android:id="@+id/sv_home"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.youth.banner.Banner
+                    android:id="@+id/banner"
+                    android:layout_width="match_parent"
+                    android:layout_height="130dip" />
+                <!--<GridView
+                    android:id="@+id/gv_home_index_icon"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dip"
+                    android:layout_marginLeft="10dip"
+                    android:layout_marginRight="10dip"
+                    android:horizontalSpacing="2.5dip"
+                    android:gravity="center"
+                    android:numColumns="2"
+                    android:scrollbars="vertical"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="2.5dip" />-->
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView android:id="@+id/iv_register"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dip"
+                        android:padding="15dip"
+                        android:src="@drawable/zy_register"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/iv_register"
+                        android:layout_alignLeft="@id/iv_register"
+                        android:layout_marginLeft="30dip"
+                        android:text="预约挂号"/>
+                    <ImageView android:id="@+id/iv_info"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="50dip"
+                        android:padding="15dip"
+                        android:src="@drawable/zy_information"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@id/iv_info"
+                        android:layout_marginLeft="30dip"
+                        android:layout_below="@id/iv_info"
+                        android:text="健康资讯"/>
+
+                </RelativeLayout>
+
+                <android.support.v4.widget.SwipeRefreshLayout
+                    android:id="@+id/rl_swipe_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dip"
+                    android:layout_marginBottom="60dip">
+                    <com.zhaoyi.walker.custom.ListViewForScrollView
+                        android:id="@+id/lv_recommend_doctor"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dip"
+                        android:layout_marginRight="5dip"
+                        android:layout_marginTop="10dip"
+                        >
+                    </com.zhaoyi.walker.custom.ListViewForScrollView>
+                </android.support.v4.widget.SwipeRefreshLayout>
+
+            </LinearLayout>
+        <!--</ScrollView>-->
+    </LinearLayout>
+</merge>

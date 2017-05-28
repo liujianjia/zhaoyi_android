@@ -1,0 +1,978 @@
+[
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patient_record.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_patient_record.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_common_doctor_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\lv_common_doctor_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hosp_department_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\hosp_department_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_detail_info.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_user_detail_info.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/lv_common_doctor_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/lv_common_doctor_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\first_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/choose_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/choose_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/custom_toast.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/custom_toast.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_page_index.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\top_page_index.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_myappointment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_myappointment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/hosp_simple_intro_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/hosp_simple_intro_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_region.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\view_region.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_city_list.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_city_list.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/swipe_layout.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/swipe_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/view_region.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/view_region.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_mycollections.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_mycollections.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor_detail_info.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_doctor_detail_info.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_routeplan.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/recycleview_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/recycleview_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_web_view.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_web_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidu_map.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_baidu_map.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_verify_old_phone.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_verify_old_phone.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_comment_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\lv_comment_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mypatients.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_mypatients.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_routeplan.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_routeplan.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_confirm_appointment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_confirm_appointment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_phone.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_new_phone.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verify_old_phone.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_verify_old_phone.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/listview_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/listview_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_transit_dialog.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_transit_dialog.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verify_phone.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_verify_phone.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_mywallet.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_mywallet.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_user_detail_info.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_user_detail_info.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_dialog.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_transit_dialog.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation_small_item.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\2a40596c6e644b6d6a75e4ef5aeb835d527baf24\\output\\res\\layout\\bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_personal.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\user_personal.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_new_phone.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_new_phone.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm_appointment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_confirm_appointment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_city_list.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_city_list.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\home_page.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_transit_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_transit_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_search_view.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\my_search_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_verify_phone.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_verify_phone.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/top_title.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/top_title.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mywallet.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_mywallet.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_popup_window.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\map_popup_window.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/lv_comment_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/lv_comment_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/view_distance.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/view_distance.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_distance.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\view_distance.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_add_new_patient.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_add_new_patient.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/acivity_comment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/acivity_comment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_patient_manager.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\lv_patient_manager.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_layout.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\swipe_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/custom_progress_dialog.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/custom_progress_dialog.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/frame_gridview_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/frame_gridview_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_doctor_all_user_comment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_doctor_all_user_comment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/user_personal.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/user_personal.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/text_bubble.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/text_bubble.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_mycomment_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\lv_mycomment_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/hosp_department_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/hosp_department_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\message_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_recover_password.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_recover_password.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/suggestion_textview.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/suggestion_textview.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/me_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/me_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/map_popup_window.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/map_popup_window.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mycollections.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_mycollections.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_view.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_search_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_search_view.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_search_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_hosp_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\lv_hosp_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hosp_list.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_hosp_list.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/hosp_service_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/hosp_service_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_bubble.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\text_bubble.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/top_page_index.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/top_page_index.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/bottom_navigation_small_item.xml",
+        "source": "/home/alice/.android/build-cache/579c055ffddcf608225c89f35b361e12e52f7832/output/res/layout/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\view_pager.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recycleview_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\recycleview_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_doctor_detail_info.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_doctor_detail_info.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_region.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\select_region.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recover_password.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_recover_password.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_transit_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_hosp_detail_info.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_hosp_detail_info.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_gridview_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\frame_gridview_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/bottom_navigation_item.xml",
+        "source": "/home/alice/.android/build-cache/579c055ffddcf608225c89f35b361e12e52f7832/output/res/layout/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation_item.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\2a40596c6e644b6d6a75e4ef5aeb835d527baf24\\output\\res\\layout\\bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\doctor_duty_gridview_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\doctor_duty_gridview_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hosp_simple_intro_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\hosp_simple_intro_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/lv_hosp_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/lv_hosp_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hosp_service_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\hosp_service_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reset_passwd.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_reset_passwd.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\suggestion_textview.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\suggestion_textview.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor_all_user_comment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_doctor_all_user_comment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/home_page.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/home_page.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appointment_detail.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_appointment_detail.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/view_pager.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/view_pager.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/my_search_view.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/my_search_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_new_patient.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_add_new_patient.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_location.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_location.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/gridview_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/gridview_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/select_region.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/select_region.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/first_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/first_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/message_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/message_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_reset_passwd.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_reset_passwd.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_patient_record.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_patient_record.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_baidu_map.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_baidu_map.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/lv_mycomment_item.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/lv_mycomment_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hosp_detail_info.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_hosp_detail_info.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_title.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\top_title.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myappointment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_myappointment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/doctor_duty_gridview_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/doctor_duty_gridview_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acivity_comment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\acivity_comment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_item.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\choose_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/banner.xml",
+        "source": "/home/alice/.android/build-cache/bedd0bb170fc7ed6abea48cae2acbb98f2a6b82f/output/res/layout/banner.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_mypatients.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_mypatients.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_hosp_list.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_hosp_list.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\2ce91272551eacf3235acbc787d0dd350b9734f6\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\me_fragment.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\me_fragment.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/activity_appointment_detail.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/activity_appointment_detail.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/layout/lv_patient_manager.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/layout/lv_patient_manager.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    }
+]

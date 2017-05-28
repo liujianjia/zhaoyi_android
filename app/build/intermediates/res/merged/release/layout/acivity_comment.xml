@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_common_color">
+
+    <include android:id="@+id/lt_top"
+        layout="@layout/top_page_index"/>
+    <EditText android:id="@+id/tv_comment"
+        android:layout_width="match_parent"
+        android:layout_height="120dip"
+        android:layout_marginTop="70dip"
+        android:hint="快写下你的评价吧"
+        android:textColorHint="@color/gray3"
+        android:inputType="textMultiLine"
+        android:minLines="3"
+        android:gravity="top"
+        android:background="@color/white"
+        />
+    <RatingBar android:id="@+id/rb_comment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_comment"/>
+    <Button android:id="@+id/btn_comment"
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:text="评价"
+        android:textColor="@color/white"
+        android:layout_marginTop="60dip"
+        android:background="@color/theme_default_color"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>

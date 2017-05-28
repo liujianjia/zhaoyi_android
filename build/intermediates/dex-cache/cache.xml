@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alice/FragmentNavigation1/app/libs/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-3.6.0_eace9c3d45e7c4dd836c30568bb6de958a0f5c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alice/FragmentNavigation1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a8cef4c673e1bc6bc9dcd7797d889c05fb6f8a3">
+        <dex dex="/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b23129b7f5a5acbf37d81734738d1385b128e881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alice/FragmentNavigation1/app/libs/MobCommons-2016.1201.1839.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2416fb4e3fe16c82785fc6cd4f8b768b25c6202">
+        <dex dex="/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons-2016.1201.1839_7f6e735d7e5412e9726c5b8c35aa08ad923d1c30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alice/FragmentNavigation1/app/libs/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.11.0_b6bc005ae4f59ab51bdeb82bf0db055858ece8f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alice/FragmentNavigation1/app/libs/fastjson-1.2.29.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2878958d7631337dcfe3bb4e541aa34478367e66">
+        <dex dex="/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/2/fastjson-1.2.29_7edf1e71192e7aa307721133f5e4aeda2336549b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alice/FragmentNavigation1/app/libs/MobTools-2016.1201.1839.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28b130b739199908b8b9f82d6cc77043b5040d25">
+        <dex dex="/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools-2016.1201.1839_3796e73341bd04879e05a53a27bcefbe73efc2a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alice/.android/build-cache/28f1d04ad9d5640daa2ba2e987cdd296adfc486a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc6d206c94c04bb831ae00c9f6a2833e6aab8a73">
+        <dex dex="/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b56b3f4ca2143bdd95c8592efbc999ffd4c95698/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alice/FragmentNavigation1/app/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a6b603d637e86ad419ade4c3da12e5a14d259cb">
+        <dex dex="/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_3dc9f86b9a1353e903a1643928a9f33a8881f3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alice/FragmentNavigation1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_91ce68625f5cd9383ba4d4fc2b24fc938ee2bbef/classes.dex" />
+    </item>
+
+</items>

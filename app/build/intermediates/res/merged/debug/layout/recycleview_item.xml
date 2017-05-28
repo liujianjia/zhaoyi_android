@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/bg_common_color"
+    android:padding="15dp">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/white"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tv_tmp_order_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="7dip"
+                android:text="订单号："
+                android:textColor="@color/gray1"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_order_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/tv_tmp_order_number"
+                android:padding="7dip"
+                android:textColor="#181818"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_order_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:padding="7dip" />
+
+            <View
+                android:id="@+id/v_line"
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_below="@id/tv_tmp_order_number"
+                android:background="@color/bg_common_color" />
+
+            <RelativeLayout android:id="@+id/rl_doc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/v_line"
+                android:layout_marginLeft="10dip">
+
+
+                <ImageView
+                    android:id="@+id/iv_avatar"
+                    android:layout_width="60dip"
+                    android:layout_height="60dip"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/zy_default_useravatar" />
+
+                <TextView
+                    android:id="@+id/tv_doc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:layout_toRightOf="@id/iv_avatar"
+                    android:padding="3dip"
+                    android:textColor="#181818"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/tv_dep"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/iv_avatar"
+                    android:layout_alignLeft="@id/tv_doc"
+                    android:textColor="#181818"
+                    android:textSize="12sp" />
+                <TextView
+                    android:id="@+id/tv_hosp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@id/tv_dep"
+                    android:layout_alignLeft="@id/tv_doc"
+                    android:textColor="#181818"
+                    android:textSize="12sp" />
+
+                <ImageView android:id="@+id/iv_right"
+                    android:layout_width="30dip"
+                    android:layout_height="40dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:scaleType="centerCrop"
+                    android:visibility="gone"
+                    android:src="@drawable/zy_right"/>
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_tmp_user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/rl_doc"
+                android:padding="4dip"
+                android:text="就诊人："
+                android:textColor="@color/gray1"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_tmp_user"
+                android:layout_toRightOf="@id/tv_tmp_user"
+                android:padding="4dip"
+                android:textColor="#181818"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_tmp_create_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_tmp_user"
+                android:layout_below="@id/tv_tmp_user"
+                android:padding="4dip"
+                android:text="创建时间："
+                android:textColor="@color/gray1"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_create_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_tmp_create_time"
+                android:layout_toRightOf="@id/tv_tmp_create_time"
+                android:padding="4dip"
+                android:textColor="#181818"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_tmp_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_tmp_create_time"
+                android:layout_below="@id/tv_tmp_create_time"
+                android:padding="4dip"
+                android:text="就诊时间："
+                android:textColor="@color/gray1"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_tmp_time"
+                android:layout_toRightOf="@id/tv_tmp_time"
+                android:padding="4dip"
+                android:textColor="#181818"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_tmp_cost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_tmp_time"
+                android:layout_below="@id/tv_tmp_time"
+                android:padding="4dip"
+                android:text="就诊费用："
+                android:textColor="@color/gray1"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_cost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_tmp_cost"
+                android:layout_toRightOf="@id/tv_tmp_cost"
+                android:padding="4dip"
+                android:textColor="#181818"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_tmp_pay_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_tmp_cost"
+                android:layout_below="@id/tv_tmp_cost"
+                android:padding="4dip"
+                android:text="支付状态："
+                android:textColor="@color/gray1"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_pay_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_tmp_pay_status"
+                android:layout_toRightOf="@id/tv_tmp_pay_status"
+                android:padding="4dip"
+                android:textColor="#181818"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_tmp_user_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_tmp_pay_status"
+                android:layout_below="@id/tv_tmp_pay_status"
+                android:padding="4dip"
+                android:text="号签："
+                android:textColor="@color/gray1"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_user_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_tmp_user_number"
+                android:layout_toRightOf="@id/tv_tmp_user_number"
+                android:padding="4dip"
+                android:textColor="#181818"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/tv_tmp_hos_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_tmp_user_number"
+                android:layout_below="@id/tv_tmp_user_number"
+                android:padding="4dip"
+                android:text="就诊地址："
+                android:textColor="@color/gray1"
+                android:textSize="16sp" />
+
+            <RelativeLayout android:id="@+id/rl_hosp_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@id/tv_tmp_hos_address"
+                android:layout_toRightOf="@id/tv_tmp_hos_address">
+
+                <TextView
+                    android:id="@+id/tv_hos_address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dip"
+                    android:paddingLeft="4dip"
+                    android:paddingTop="4dip"
+                    android:paddingBottom="4dip"
+                    android:paddingRight="30dip"
+                    android:textColor="#181818"
+                    android:textSize="16sp" />
+                <ImageView android:id="@+id/iv_hos_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@id/tv_hos_address"
+                    android:layout_alignBottom="@id/tv_hos_address"
+                    android:src="@drawable/zy_location_icon"/>
+            </RelativeLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:layout_below="@id/rl_hosp_location"
+                android:background="@color/white" />
+
+            <Button android:id="@+id/btn_cancel"
+                android:layout_width="60dip"
+                android:layout_height="25dip"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/rl_hosp_location"
+                android:background="@drawable/zy_circle_shape"
+                android:layout_marginTop="7dip"
+                android:layout_marginRight="7dip"
+                android:text="取消预约"
+                android:textSize="13sp" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

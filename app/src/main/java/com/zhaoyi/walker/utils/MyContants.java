@@ -1,0 +1,70 @@
+package com.zhaoyi.walker.utils;
+
+public class MyContants {
+	public static final String BASE_URL = "http://192.168.1.104:8080/RegistrySystem/";
+	public static final String LOGIN = "login.action";
+	public static final String CHOOSECITY = "likeHosInfo.action";
+	public static final String REGISTER = "register.action";
+	public static final String ENTERDETAILPAGE = "getHos.action";
+	public static final String ENTERDETAILDOCTORPAGE = "getDocInfoDetail.action";
+	public static final String RECOMMENDDOCTOR="getRecommendDoc.action";
+	public static final String CHOOSEDEPARTMENT = "getDocInfo.action";
+	public static final String MAKEAPPOINTMENT = "addRegistry.action";
+	public static final String GETEXACTLYAPPOINTMENTTIME = "getTime.action";
+	public static final String UPDATEPROFILE="updateUserInfo.action";
+    public static final String GETUSERINFO = "getUserInfo.action";
+	public static final String GETORDER = "getOrderInfo.action";
+	public static final String CANCELORDER = "cancelRegistry.action";
+	public static final String GETRECORD = "getRecordInfo.action";
+	public static final String GETRECORDDETAIL = "getRecordDetail.action";
+	public static final String POSTCOMMENT = "userAssess.action";
+	public static final String DELETERECORD = "delRecord.action";
+	public static final String UPDATELOCATION = "updateLat.action";
+	public static final String GETMYCOMMENT = "getAssess.action";
+	public static final String ADDNEWPATIENT = "addPatient.action";
+	public static final String GETPAINTINFO = "getPatient.action";
+	public static final String DELPATIENTIFNO = "delPatient.action";
+	public static final String MODIFYPATIENTIFNO = "chgPatient.action";
+	public static final String COLLECTIONDOCTIOR = "storeDoc.action";
+	public static final String CANCELCOLLECTIONDOCTOR = "delStoreDoc.action";
+	public static final String GETMYCOLLECTIONDOCS = "getStoreDoc.action";
+	public static final String CHANGEPASSWORD = "chgUserpwd.action";
+	public static final String DELETECOMMENT = "delAss.action";
+	public static final String CHECKUSERNAMEISVALID = "checkUserName.action";
+	public static final String CHECKIDCARDISVALID = "checkCredit.action";
+	public static final String CHECKPHONEISVALID = "checkPhone.action";
+	public static final String CHARGEWALLET = "updateUserMoney.action";
+	public static final String GETMONEYCOUNT = "getUserMoney.action";
+	public static final String CHANGEPAYPASSWORD = "chgPaypwd.action";
+	public static final String GETMESSAGE = "getUserMsg.action";
+	public static final String FINDPASSWROD = "findPwd.action";
+	public static final String SEARCHHOSP = "searchHos.action";
+	public static final String DELETENOTIFICATION = "delUserMsg.action";
+
+	public static final String DIR_AVATAR = "/sdcard/zhaoyi/";
+
+	public static final String JSON_KEY_ZYID ="userId";
+	public static final String JSON_KEY_SEX ="sex";
+	public static final String JSON_KEY_AVATAR ="avatar";
+	public static final String JSON_KEY_PHONE = "phone";
+	public static final String JSON_KEY_IDCARD = "idCard";
+	public static final String JSON_KEY_REGION = "region";
+	public static final String JSON_KEY_BLOODTYPE = "bloodType";
+	public static final String JSON_KEY_ADDRESS = "address";
+	public static final String JSON_KEY_BIRTH = "birth";
+	public static final String JSON_KEY_NAME = "name";
+	public static final String JSON_KEY_PASSWORD = "password";
+	public static final String JSON_KEY_REAL_NAME = "realName";
+    public static final String KSON_KEY_CREDIT = "credit";
+	public static final String JSON_KEY_ISLOGIN = "isLogin";
+	public static final String JSON_KEY_LATITUDE = "myLatitude";
+	public static final String JSON_KEY_LONGITUDE = "myLongitude";
+	public static final String JSON_KEY_LASTCITY = "lastCity";
+
+	public static final String ACTION_CHECK_ORDER_ALARM = "com.zhaoyi.walker.ACTION_CHECK_ORDER_ALARM";
+	public static final String CHECK_FREQ = "checkFreq";
+	public static final String ISAUTOCHECK = "isAutoCheck";
+	public static final String ISREMIND = "isRemind";
+	public static final String VERSIONURL = "update/version.xml";
+	public static final String UPDATEPACKAGE = "update/app-release.apk";
+}

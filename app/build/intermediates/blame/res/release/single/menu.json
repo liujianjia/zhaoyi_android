@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/release/menu/menu.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/menu/main.xml"
+    }
+]

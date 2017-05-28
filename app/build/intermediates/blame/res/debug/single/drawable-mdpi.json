@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-mdpi/main_theme_launcher_pic.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-mdpi/main_theme_launcher_pic.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-mdpi/search_icon.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-mdpi/search_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_theme_launcher_pic.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-mdpi\\main_theme_launcher_pic.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher1.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-mdpi/ic_launcher1.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher1.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\search_icon.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-mdpi\\search_icon.png"
+    }
+]

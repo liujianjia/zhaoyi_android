@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/white"
+                android:layout_marginTop="10dip"
+                android:padding="5dip">
+
+                <LinearLayout android:id="@+id/ll_hos_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="电话"
+                        android:background="@color/white"
+                        android:layout_marginLeft="10dip"
+                        />
+                    <TextView android:id="@+id/tv_hos_phone"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:layout_marginLeft="10dip"
+                        />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="地址"
+                    android:background="@color/white"
+                    android:layout_marginLeft="10dip"
+                    />
+                <TextView android:id="@+id/tv_hos_addr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:layout_marginLeft="10dip"
+                    />
+
+                <LinearLayout android:id="@+id/ll_url"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="网址"
+                        android:background="@color/white"
+                        android:layout_marginLeft="10dip"
+                        />
+                    <TextView android:id="@+id/tv_hos_url"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/white"
+                        android:layout_marginLeft="10dip"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/white"
+                android:layout_marginTop="15dip"
+                android:padding="5dip">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dip"
+                    android:layout_marginLeft="10dip"
+                    android:gravity="center_vertical"
+                    android:background="@color/white"
+                    android:text="@string/simple_info"
+                    android:textSize="18sp"/>
+
+                <TextView android:id="@+id/tv_hos_simple_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:textSize="13sp"
+                    android:padding="15dip"/>
+            </LinearLayout>.
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

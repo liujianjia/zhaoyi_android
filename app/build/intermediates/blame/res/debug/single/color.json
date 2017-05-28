@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/alice/.android/build-cache/dc594d43c5a53cae8f9ad1fd8038a8fa67dfba02/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\8911b61ab7f308edf5928afa4cab74bc60e0da0d\\output\\res\\color\\abc_tint_switch_track.xml"
+    }
+]

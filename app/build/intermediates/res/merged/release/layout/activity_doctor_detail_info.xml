@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray">
+    <include layout="@layout/top_page_index"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/theme_default_color"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <!--<com.walker.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/ci_doctor_photo"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:src="@drawable/zy_home_icon_experience"
+            app:civ_border_color="#FF000000"
+            app:civ_border_width="2dp" />-->
+        <ImageView
+            android:id="@+id/ci_doctor_photo"
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:src="@drawable/zy_home_icon_experience"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="10dip"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="5dip">
+            <TextView
+                android:id="@+id/tv_doctor_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:id="@+id/tv_doctor_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:textSize="15sp"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textColor="@color/white"
+                android:text="评分"/>
+            <TextView android:id="@+id/tv_star"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:textSize="15sp"
+                android:textColor="@color/orange1"
+                android:text="5.5"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dip"
+                android:textSize="15sp"
+                android:textColor="@color/white"
+                android:text="已预约"/>
+            <TextView android:id="@+id/tv_appointment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:textSize="15sp"
+                android:textColor="@color/orange1"
+                android:text="100"/>
+        </LinearLayout>
+
+        <Button android:id="@+id/btn_collection"
+            android:layout_width="70dip"
+            android:layout_height="30dip"
+            android:background="@drawable/zy_circle_shape"
+            android:layout_marginTop="10dip"
+            android:layout_marginBottom="10dip"
+            android:textColor="@color/white"
+            android:text="收藏"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <ScrollView android:id="@+id/sv_doctor_comment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout android:id="@+id/ll_doctor_duty_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:orientation="vertical"
+                android:background="@color/white">
+                <TextView
+                    android:layout_marginTop="10dip"
+                    android:layout_marginLeft="10dip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/zy_doctor_simple_info"
+                    android:textSize="20sp"
+                    android:textColor="@color/black2"/>
+                <TextView
+                    android:id="@+id/tv_doctor_simple_info"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:textSize="15sp"
+                    android:textColor="@color/black2"/>
+                <TextView
+                    android:layout_marginTop="10dip"
+                    android:layout_marginLeft="10dip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/zy_doctor_goodat"
+                    android:textSize="20sp"
+                    android:textColor="@color/black2"/>
+                <TextView
+                    android:id="@+id/tv_doctor_goodat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:textSize="15sp"
+                    android:textColor="@color/black2"/>
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+                    <RadioButton android:id="@+id/rb_get_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/hos_cmp_line"
+                        android:text="@string/get_number"
+                        android:textSize="16sp"
+                        android:textColor="@color/theme_default_color"
+                        android:checked="true"/>
+                    <RadioButton android:id="@+id/rb_add_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/hos_cmp_line"
+                        android:text="@string/add_number"
+                        android:textSize="16sp"
+                        android:textColor="@color/white"/>
+                </RadioGroup>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/theme_default_color"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="10dip"
+                android:background="@color/white">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dip"
+                    android:text="评价"
+                    android:textColor="@color/black1"
+                    android:textSize="22sp"/>
+                <TextView android:id="@+id/tv_comment_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dip"
+                    android:textColor="@color/black1"
+                    android:textSize="22sp"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <com.zhaoyi.walker.custom.ListViewForScrollView
+                    android:id="@+id/lv_user_comment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </com.zhaoyi.walker.custom.ListViewForScrollView>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dip"
+                    android:background="@color/gray1"/>
+                <Button android:id="@+id/btn_all_comment"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dip"
+                    android:background="@color/white"
+                    android:text="更多"
+                    android:textSize="19sp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

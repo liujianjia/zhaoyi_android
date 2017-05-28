@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/home/alice/FragmentNavigation1/C:\\Users\\jianjia Liu\\.android\\build-cache\\f930c8c5d170887f0c7c3e1f48b8ec1c0f243ee2\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/alice/.android/build-cache/2aedfb9c1c4a678f79ebb2f222bce9e0e9ce67e1/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

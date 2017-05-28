@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.support.percent.expand" >
+
+    <!-- http://blog.csdn.net/lmj623565791/article/details/46695347 -->
+    <!-- https://github.com/hongyangAndroid/android-percent-support-extend -->
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="23" />
+
+</manifest>

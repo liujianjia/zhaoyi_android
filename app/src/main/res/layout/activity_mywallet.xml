@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_common_color">
+
+    <RelativeLayout android:id="@+id/rl_balance"
+        android:layout_width="match_parent"
+        android:layout_height="240dip"
+        android:background="@drawable/zy_color_gradient">
+
+        <TextView android:id="@+id/tv_tmp_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="90dip"
+            android:text="余额(元)"
+            android:textSize="22sp"
+            android:textColor="@color/white"/>
+        <TextView android:id="@+id/tv_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dip"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/tv_tmp_balance"
+            android:text="0.00"
+            android:textSize="22sp"
+            android:textColor="@color/white"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:id="@+id/rl_charge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dip"
+        android:background="@color/white">
+
+        <TextView android:id="@+id/tv_charge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dip"
+            android:layout_centerVertical="true"
+            android:textSize="20sp"
+            android:text="充值"/>
+
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/rl_change_pay_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <TextView android:id="@+id/tv_change_pay_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dip"
+            android:layout_centerVertical="true"
+            android:textSize="20sp"
+            android:text="修改支付密码"/>
+
+    </RelativeLayout>
+</LinearLayout>

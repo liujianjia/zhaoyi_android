@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_common_color">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include layout="@layout/top_page_index"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_ui_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:orientation="vertical">
+
+        <RadioGroup android:id="@+id/rg_hos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_select_hos"
+                style="@style/hos_cmp_line"
+                android:layout_width="0dip"
+                android:layout_height="42dip"
+                android:text="全部"
+                android:textColor="@color/gray1"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:background="@drawable/zy_tab_bottom_line"/>
+
+            <RadioButton
+                android:id="@+id/rb_sort_method"
+                style="@style/hos_cmp_line"
+                android:layout_width="0dip"
+                android:layout_height="42dip"
+                android:text="智能排序"
+                android:textColor="@color/gray1"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:background="@drawable/zy_tab_bottom_line"/>
+
+            <RadioButton
+                android:id="@+id/rb_filter"
+                style="@style/hos_cmp_line"
+                android:layout_width="0dip"
+                android:layout_height="42dip"
+                android:text="筛选"
+                android:textColor="@color/gray3"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:background="@drawable/zy_tab_bottom_line"/>
+
+        </RadioGroup>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <!--<ScrollView
+            android:id="@+id/id_more_scrollview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">-->
+
+            <android.support.v4.widget.SwipeRefreshLayout
+                android:id="@+id/rl_swipe_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ListView android:id="@+id/list_city_hospital"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dip"
+                    >
+
+                </ListView>
+            </android.support.v4.widget.SwipeRefreshLayout>
+        <!--</ScrollView>-->
+    </LinearLayout>
+</LinearLayout>

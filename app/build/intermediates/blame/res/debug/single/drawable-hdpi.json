@@ -1,0 +1,658 @@
+[
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_profile.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_profile.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_right.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_right.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hosp_pulic_intro.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\hosp_pulic_intro.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hosp_plus.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\hosp_plus.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_arrow_right_gray.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_arrow_right_gray.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_start.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_start.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_wallet.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_wallet.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/hosp_plus.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/hosp_plus.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/choosebar_line.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/choosebar_line.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choosebar_press_down.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\choosebar_press_down.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/choosearea_bg_mid.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/choosearea_bg_mid.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/em_ic_right_arrow.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/em_ic_right_arrow.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_actionbar.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/bg_actionbar.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_comment.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_comment.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_modify.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_modify.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_geo.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/widget_line.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/widget_line.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_spinner.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_spinner.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_modify.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_modify.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_tab_item_me_unselected.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_tab_item_me_unselected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/toast_icon.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/toast_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_home_icon_experience.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_home_icon_experience.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_map.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_map.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_hosp_level.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_hosp_level.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_hosp_type.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_hosp_type.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_check_on.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_check_on.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_ic_right_arrow.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\em_ic_right_arrow.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_setting.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_setting.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_tab_item_message_selected.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_tab_item_message_selected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_default_useravatar.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_default_useravatar.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_bg_me_avatar.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_bg_me_avatar.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\next_.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\next_.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_tab_item_message_selected.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_tab_item_message_selected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/hosp_pulic_intro.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/hosp_pulic_intro.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_information.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_information.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_default_useravatar.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_default_useravatar.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_home_icon_experience.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_home_icon_experience.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_map.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_action_map.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/main_theme_launcher_pic.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/main_theme_launcher_pic.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_st.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_global_back.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_global_back.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ac_goback_gree.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ac_goback_gree.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_en.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/icon_en.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/choosebar_press_down.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/choosebar_press_down.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abcp__expander_open_holo_light.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\abcp__expander_open_holo_light.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_tab_item_home_unselected.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_tab_item_home_unselected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_tab_item_me_unselected.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_tab_item_me_unselected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abs__ic_ab_back_holo_dark.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_notification_icon.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_notification_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_start.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_start.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/search_clear_normal.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/search_clear_normal.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_star.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_star.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toast_bg.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\toast_bg.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_actionbar.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\bg_actionbar.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_doctor.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_doctor.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_crash.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_crash.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_down.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/choosearea_bg_right.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/choosearea_bg_right.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_management.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_management.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_edit_selected.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\bg_edit_selected.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_clear_pressed.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_edit_selected.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/bg_edit_selected.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_location_icon.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_location_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_right_arrow.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/choose_item_right.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/choose_item_right.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_marka.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/icon_marka.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choose_item_right.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\choose_item_right.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_management.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_management.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_right_arrow.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_right_arrow.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_search_icon.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_search_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_home_icon_question.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_home_icon_question.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_delete.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_delete.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_tab_item_message_unselected.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_tab_item_message_unselected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_arrow_down.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choosebar_press_up.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\choosebar_press_up.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/choosearea_bg_left.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/choosearea_bg_left.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_global_back.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_global_back.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_home_icon_feedback.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_home_icon_feedback.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_record.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_record.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toast_icon.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\toast_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_home_icon_question.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_home_icon_question.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_profile.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_profile.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/hosp_public_info.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/hosp_public_info.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/abs__ic_ab_back_holo_dark.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_tab_item_home_selected.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_tab_item_home_selected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_en.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/next_.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/next_.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/popup.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/popup.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/search_clear_pressed.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/search_clear_pressed.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_theme_launcher_pic.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\main_theme_launcher_pic.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_tab_item_home_unselected.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_tab_item_home_unselected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_hosp_location1.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_hosp_location1.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_location_icon.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_location_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_register.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_register.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_star.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_star.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choosearea_bg_mid.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\choosearea_bg_mid.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_department.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_department.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_tab_item_me_selected.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_tab_item_me_selected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_hosp_location1.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_hosp_location1.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/abcp__expander_open_holo_light.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/abcp__expander_open_holo_light.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_white_down.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_white_down.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_setting.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_setting.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_home_icon_info.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_home_icon_info.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_bg_me_avatar.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_bg_me_avatar.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/choosebar_down.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/choosebar_down.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_register.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_register.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choosebar_line.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\choosebar_line.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_spinner.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_spinner.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_comment.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_comment.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_follow.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_follow.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_default_hospital.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_default_hospital.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_hosp_distance.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_hosp_distance.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_tab_item_message_unselected.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_tab_item_message_unselected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_edit_unselected.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/bg_edit_unselected.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_search_icon.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_search_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_right_gray.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_right_gray.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_geo.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/icon_geo.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_home.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/pre_.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/pre_.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_department.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_department.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_hosp_level.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_hosp_level.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_right.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_right.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_edit_unselected.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\bg_edit_unselected.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_follow.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_follow.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choosebar_down.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\choosebar_down.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_tab_item_home_selected.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_tab_item_home_selected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_home_icon_info.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_home_icon_info.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_doctor.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_doctor.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choosearea_bg_right.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\choosearea_bg_right.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_hosp_type.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_hosp_type.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_dialog_shape.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_dialog_shape.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_check_on.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_check_on.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_hosp_appointment.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_hosp_appointment.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_search.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_record.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_record.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hosp_public_info.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\hosp_public_info.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_clear_normal.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/icon_st.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/icon_st.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/toast_bg.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/toast_bg.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\widget_line.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\widget_line.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_default_hospital.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_default_hospital.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pre_.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\pre_.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_notification_icon.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_notification_icon.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_crash.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ic_crash.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\popup.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\popup.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_information.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_information.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_tab_item_me_selected.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_tab_item_me_selected.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_marka.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\icon_marka.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/choosebar_press_up.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/choosebar_press_up.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ac_goback_gree.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\ac_goback_gree.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\choosearea_bg_left.9.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\choosearea_bg_left.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_home_icon_feedback.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_home_icon_feedback.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_wallet.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_wallet.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_dialog_shape.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_dialog_shape.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_arrow_white_down.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_arrow_white_down.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/zy_hosp_distance.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/zy_hosp_distance.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_delete.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_delete.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_home.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-hdpi/ic_action_home.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zy_hosp_appointment.png",
+        "source": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\app\\src\\main\\res\\drawable-hdpi\\zy_hosp_appointment.png"
+    }
+]

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.daimajia.swipe.SwipeLayout
+        android:id="@+id/rl_swipe_layout"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- Bottom View Start-->
+        <LinearLayout
+            android:background="#66ddff00"
+            android:id="@+id/bottom_wrapper"
+            android:layout_width="60dp"
+            android:weightSum="1"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <!--What you want to show-->
+
+            <LinearLayout
+                android:layout_width="60dip"
+                android:layout_height="match_parent"
+                android:background="#ff0000"
+                android:gravity="center">
+                <ImageView android:id="@+id/iv_delete"
+                    android:layout_width="40dip"
+                    android:layout_height="match_parent"
+                    android:background="#ff0000"
+                    android:src="@drawable/ic_crash"/>
+            </LinearLayout>
+
+        </LinearLayout>
+        <!-- Bottom View End-->
+
+        <!-- Surface View Start -->
+        <RelativeLayout
+            android:padding="10dp"
+            android:background="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <!--What you want to show in SurfaceView-->
+            <ImageView android:id="@+id/iv_item_image"
+                android:layout_width="60dip"
+                android:layout_height="60dip" />
+            <TextView android:id="@+id/tv_item_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/iv_item_image"
+                android:layout_alignTop="@id/iv_item_image"
+                android:text="title"
+                android:textSize="26dip"/>
+            <TextView android:id="@+id/tv_item_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_item_title"
+                android:layout_below="@id/tv_item_title"
+                android:layout_alignBottom="@id/iv_item_image"/>
+        </RelativeLayout>
+        <!-- Surface View End -->
+    </com.daimajia.swipe.SwipeLayout>
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+#Mon May 22 11:40:47 GMT+08:00 2017
+base.0=/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_91ce68625f5cd9383ba4d4fc2b24fc938ee2bbef
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b23129b7f5a5acbf37d81734738d1385b128e881/classes.dex
+base.1=/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b23129b7f5a5acbf37d81734738d1385b128e881
+file.0=/home/alice/FragmentNavigation1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_91ce68625f5cd9383ba4d4fc2b24fc938ee2bbef/classes.dex

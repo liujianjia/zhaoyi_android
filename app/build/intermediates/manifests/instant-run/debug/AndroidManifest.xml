@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zhaoyi.walker"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <!-- <uses-permission android:name="android.permission.READ_CONTACTS" /> -->
+    <!-- <uses-permission android:name="android.permission.READ_PHONE_STATE" /> -->
+    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- <uses-permission android:name="android.permission.RECEIVE_SMS" /> -->
+    <!-- <uses-permission android:name="android.permission.READ_SMS" /> -->
+    <!-- <uses-permission android:name="android.permission.GET_TASKS" /> -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission> -->
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"></uses-permission> -->
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission> -->
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <!-- <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"></uses-permission> -->
+    <!-- 用于读取手机当前的状态 -->
+    <!-- <uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission> -->
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission> -->
+    <!-- 访问网络，网络定位需要上网 -->
+    <!-- <uses-permission android:name="android.permission.INTERNET" /> -->
+    <!-- SD卡读取权限，用户写入离线定位数据 -->
+    <!-- <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"></uses-permission> -->
+
+
+    <!-- <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/> -->
+    <!-- <uses-permission android:name="android.permission.INTERNET"/> -->
+    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" /> -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" /> -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> -->
+    <!-- <uses-permission android:name="android.permission.GET_TASKS" /> -->
+    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> -->
+    <!-- <uses-permission android:name="android.permission.WRITE_SETTINGS" /> -->
+    <!-- if you want to load images from a file OR from the internet -->
+    <!-- <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
+    <application
+        android:name="com.zhaoyi.walker.ZyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/main_theme_launcher_pic"
+        android:label="@string/app_name"
+        android:theme="@style/MainTheme" >
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="HGdmYGINvzjo3nrEOfmGcXaq3ZtFsPTv" /> <!-- baidu location service access key -->
+        <activity
+            android:name="com.zhaoyi.walker.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.zhaoyi.walker.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.LoginActivity"
+            android:label="@string/zy_login_activity"
+            android:theme="@style/MainTheme" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.VerifyPhoneActivity"
+            android:label="@string/zy_register_activity" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.RegisterActivity"
+            android:label="@string/zy_register_last_activity" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.HosDetailInfoActivity"
+            android:label="@string/zy_hos_detail_activity" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.ShowDoctorsFromFixedHosActivity"
+            android:label="@string/zy_show_doctor_list_activity" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.DoctorDetailInfoActivity"
+            android:label="@string/zy_doctor_detail_activity" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.ConfirmAppointmentActivity"
+            android:label="@string/zy_confirm_appointment_activity" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.BaiduMapActivity"
+            android:label="@string/zy_baidu_map_activity" />
+        <activity
+            android:name="com.zhaoyi.walker.location.DrawPositionOnMap"
+            android:label="@string/zy_draw_position_activity" />
+        <activity
+            android:name="com.zhaoyi.walker.location.MultiRoutePlan"
+            android:label="@string/zy_walk_guide" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.WebViewActivity"
+            android:label="webviewer"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.ShowHosListActivity"
+            android:label="@string/zy_hos_list"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.UserPersonalPageActivity"
+            android:label="@string/zy_personal"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.NewPhoneActivity"
+            android:label="@string/zy_change_phone"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.AllCityActivity"
+            android:label="@string/all_city"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.MyAppointmentActivity"
+            android:label="@string/zy_my_appointment"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.AboutActivity"
+            android:label="@string/zy_about"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.PatientRecordActivity"
+            android:label="@string/zy_patient_record"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.PatientRecordDetailActivity"
+            android:label="@string/zy_patient_record"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.SettingActivity"
+            android:label="@string/zy_setting"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.CommentActivity"
+            android:label="@string/zy_comment"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.DoctorAllUserComment"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.MyCommentActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.PatientsManager"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.AddNewPatientActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.MyCollectionActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.ModifyPatientActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.RecoverPasswordActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.MyWalletActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.RecoverPayPasswordActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.ReSetPasswordActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.VerifyOldPhoneActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.zhaoyi.walker.activity.MySearchViewActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+        <service
+            android:name="com.zhaoyi.walker.service.CheckOrderService"
+            android:enabled="true" >
+        </service>
+        <service
+            android:name="com.zhaoyi.walker.service.UpdateService"
+            android:enabled="true" />
+
+        <receiver android:name="com.zhaoyi.walker.broadcastreceiver.TaskAlarmReceiver" >
+            <intent-filter>
+                <action android:name="com.zhaoyi.walker.ACTION_CHECK_ORDER_ALARM" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.android.tools.fd.runtime.InstantRunService"
+            android:exported="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_common_color">
+
+    <include android:id="@+id/ly_top_page"
+        layout="@layout/top_page_index"/>
+    <include android:id="@+id/ly_item"
+        layout="@layout/recycleview_item"/>
+
+    <RelativeLayout android:id="@+id/rl_attention"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ly_item"
+        android:background="@color/white"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip"
+        android:visibility="gone">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dip"
+            android:textColor="#181818"
+            android:text="就诊须知"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dip"
+            android:src="@drawable/em_ic_right_arrow"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/bg_common_color"
+        >
+        <Button android:id="@+id/btn_delete"
+            android:layout_width="match_parent"
+            android:layout_height="45dip"
+            android:layout_alignParentBottom="true"
+            android:background="@color/theme_default_color"
+            android:text="取消预约"
+            android:textColor="@color/white"/>
+        <Button android:id="@+id/btn_comment"
+            android:layout_width="wrap_content"
+            android:layout_height="30dip"
+            android:layout_marginBottom="10dip"
+            android:layout_marginRight="15dip"
+            android:layout_above="@id/btn_delete"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/zy_circle_shape"
+            android:visibility="gone"
+            android:text="删除记录"
+            android:textColor="@color/black1"
+            android:textSize="12sp"/>
+    </RelativeLayout>
+
+</LinearLayout>

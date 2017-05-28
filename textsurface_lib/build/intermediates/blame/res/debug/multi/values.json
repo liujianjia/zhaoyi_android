@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/alice/FragmentNavigation1/textsurface_lib/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/alice/FragmentNavigation1/textsurface_lib/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 52,
+                        "endOffset": 65
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\textsurface_lib\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/alice/FragmentNavigation1/D:\\Android Project\\FragmentNavigation1\\textsurface_lib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 52,
+                        "endOffset": 67
+                    }
+                }
+            }
+        ]
+    }
+]

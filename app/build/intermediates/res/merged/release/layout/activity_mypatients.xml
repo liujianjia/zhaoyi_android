@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_common_color">
+    <include android:id="@+id/lt_top"
+        layout="@layout/top_page_index"
+        />
+    <RelativeLayout android:id="@+id/rl_new_patient"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:layout_below="@id/lt_top"
+        android:layout_marginTop="10dip"
+        android:padding="5dip">
+        <ImageView android:id="@+id/iv_hosp_pic"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:layout_marginLeft="10dip"
+            android:layout_centerVertical="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/hosp_plus"/>
+        <TextView android:id="@+id/tv_new_patient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_hosp_pic"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:text="添加就诊人"
+            android:textSize="16sp"
+            android:textColor="@color/theme_default_color"/>
+        <TextView android:id="@+id/tv_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_new_patient"
+            android:layout_centerVertical="true"
+            android:textSize="14sp"
+            android:textColor="@color/gray1"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/zy_right"/>
+
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/rl_patient"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_new_patient"
+        android:padding="15dip"
+        android:background="@color/bg_common_color">
+        <ListView android:id="@+id/lv_patient"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+        </ListView>
+    </RelativeLayout>
+
+</LinearLayout>

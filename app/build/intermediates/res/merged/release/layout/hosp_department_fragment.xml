@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_common_color">
+    <!--<GridView
+        android:id="@+id/gv_hos_department"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dip"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="5dip"
+        android:horizontalSpacing="2.5dip"
+        android:numColumns="4"
+        android:scrollbars="vertical"
+        android:verticalSpacing="2.5dip" />-->
+
+
+</LinearLayout>

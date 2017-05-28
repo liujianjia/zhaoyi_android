@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/release/drawable-xhdpi/main_theme_launcher_pic.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-xhdpi/main_theme_launcher_pic.png"
+    },
+    {
+        "merged": "/home/alice/FragmentNavigation1/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/alice/FragmentNavigation1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
